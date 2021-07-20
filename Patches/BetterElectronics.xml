@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+	
+	<Operation Class="PatchOperationSequence">
+		<success>Always</success>
+		<operations>
+			<li Class="BetterElectronics.IsShortCircuitsEnabled"><success>Invert</success></li>
+			<li Class="PatchOperationReplace">
+				<xpath>*/IncidentDef[defName = "ShortCircuit"]/baseChance</xpath>
+				<value>
+					<baseChance>0</baseChance>
+				</value>
+			</li>
+		</operations>
+	</Operation>
+	
+	<Operation Class="PatchOperationSequence">
+		<success>Always</success>
+		<operations>
+			<li Class="BetterElectronics.IsSolarFlareEnabled"><success>Invert</success></li>
+			<li Class="PatchOperationReplace">
+				<xpath>*/IncidentDef[defName = "SolarFlare"]/baseChance</xpath>
+				<value>
+					<baseChance>0</baseChance>
+				</value>
+			</li>
+		</operations>
+	</Operation>
+	
+</Patch>
