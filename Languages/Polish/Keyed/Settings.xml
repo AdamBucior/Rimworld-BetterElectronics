@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 	<BetterElectronics.NoBreakdowns.Enabled>Brak Losowych Awarii</BetterElectronics.NoBreakdowns.Enabled>
-	<BetterElectronics.NoBreakdowns.Enabled.Alt>Możesz włączyć awarie spowrotem. Wymaga restartu gry.</BetterElectronics.NoBreakdowns.Enabled.Alt>
+	<BetterElectronics.NoBreakdowns.Enabled.Alt>Wyłącza losowe awarie. Zmiana tego ustawienia wymaga restartu gry.</BetterElectronics.NoBreakdowns.Enabled.Alt>
 	<BetterElectronics.NoSolarFlare.Enabled>Brak Rozbłysków Słonecznych</BetterElectronics.NoSolarFlare.Enabled>
-	<BetterElectronics.NoSolarFlare.Enabled.Alt>Możesz włączyć rozbłyski słoneczne spowrotem. Wymaga restartu gry.</BetterElectronics.NoSolarFlare.Enabled.Alt>
+	<BetterElectronics.NoSolarFlare.Enabled.Alt>Wyłącza rozbłyski słoneczne. Zmiana tego ustawienia wymaga restartu gry.</BetterElectronics.NoSolarFlare.Enabled.Alt>
 	<BetterElectronics.NoShortCircuits.Enabled>Brak Losowych Zwarć</BetterElectronics.NoShortCircuits.Enabled>
-	<BetterElectronics.NoShortCircuits.Enabled.Alt>Możesz włączyć zwarcia spowrotem. Wymaga restartu gry.</BetterElectronics.NoShortCircuits.Enabled.Alt>
+	<BetterElectronics.NoShortCircuits.Enabled.Alt>Wyłącza zwarcia. Zmiana tego ustawienia wymaga restartu gry.</BetterElectronics.NoShortCircuits.Enabled.Alt>
 </LanguageData>
